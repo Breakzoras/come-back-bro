@@ -62,9 +62,9 @@ Paste [chatgpt/instructions.md](chatgpt/instructions.md) into a Project's instru
 3. When you spiral, say so. You will get facts and a plan.
 4. Say "end intoxicated mode" when you are out of the woods.
 
-## Privacy
+## Privacy, honestly
 
-The skill asks the assistant to keep every personal detail in one private place and never in shared notes, wikis or team channels. Nothing in this repository contains anyone's real story.
+The skill asks the assistant to keep personal details out of shared places: team wikis, group channels, shared project notes. It cannot make your chat more private than your AI provider already does, so read their terms and keep names out if you want to. Nothing in this repository contains anyone's real story.
 
 ## Not a substitute
 
