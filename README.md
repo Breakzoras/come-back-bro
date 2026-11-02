@@ -12,6 +12,20 @@ Five words: ten years closed, then someone.
 
 The idea came out of a real case. One of us met someone, and within three days the person was living rent free in his head for twelve hours a day. Work slipped, sleep slipped, the plan for the first conversation got rewritten forty times. So he asked his assistant to switch into a new mode: remind me of the facts, keep me strict with work, help me build real plans. He called it intoxicated mode. It worked well enough that we cleaned it up and put it here, with every private detail removed.
 
+## Why a skill for this
+
+Falling for someone is a measurable state, and the numbers explain why a grounding tool helps:
+
+- People in early-stage love told researchers they spend more than 85% of their waking hours thinking about the person. ([Fisher, Xu, Aron and Brown, Frontiers in Psychology, 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4861725/))
+- On average, people freshly in love think about their sweetheart 65% of the time. The top score in that study was 93%. ([Langeslag, University of Missouri St. Louis, 2015](https://blogs.umsl.edu/news/2015/04/22/in-love/))
+- The intense phase typically lasts about 12 to 18 months. ([Fisher et al., 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4861725/))
+- People in love for under six months showed the same lowered serotonin transporter density as patients with obsessive compulsive disorder. ([Marazziti, Akiskal, Rossi and Cassano, Psychological Medicine, 1999](https://www.cambridge.org/core/journals/psychological-medicine/article/alteration-of-the-platelet-serotonin-transporter-in-romantic-love/9599BA293019DFA6D05B315803B6D2A7))
+- They also had higher cortisol, the stress hormone, than singles and long-term couples. Re-tested 12 to 24 months later, every hormonal difference was gone. ([Marazziti and Canale, Psychoneuroendocrinology, 2004](https://pubmed.ncbi.nlm.nih.gov/15177709/))
+- Teenagers freshly in love slept fewer hours and scored higher on a hypomania scale. The authors call early love "comparable to a hypomanic state". ([Brand et al., Journal of Adolescent Health, 2007](https://pubmed.ncbi.nlm.nih.gov/17577536/))
+- 53% of British 18 to 24 year olds always look someone up on social media before a first date. Only 5% never do. ([YouGov, 2018](https://yougov.com/en-gb/articles/21474-would-you-go-date-someone-who-didnt-have-digital-f))
+
+So: a brain running on OCD-level serotonin and extra cortisol, thinking about one person most of the day, for a year or more. That brain could use a friend with a list of facts.
+
 ## What it does
 
 | | Feature | In one line |
