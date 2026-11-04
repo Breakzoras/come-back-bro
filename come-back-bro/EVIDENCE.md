@@ -1,6 +1,6 @@
 # Evidence behind come-back-bro
 
-Version 1.2.0. Researched on the 2nd of November 2026, coming back mode sources added on the 4th of November 2026. Every source below was opened during the research. The full notes, with sample sizes, strength ratings and the findings that failed to replicate, live in the repository's [research folder](../research/).
+Version 1.3.0. Researched on the 2nd of November 2026, coming back mode sources added on the 4th of November 2026 (versions 1.2.0 and 1.3.0). Every source below was opened during the research. The full notes, with sample sizes, strength ratings and the findings that failed to replicate, live in the repository's [research folder](../research/).
 
 **Read this first.** Nobody has tested an intervention on people in the first weeks of dating. The rules borrow from studies of breakups, unrequited love, anxiety, sleep, speed dating and chatbot use. Most samples are small, many are US college students, and most effects were measured in one session. Treat the skill as careful extrapolation from the best evidence available.
 
@@ -36,6 +36,9 @@ Version 1.2.0. Researched on the 2nd of November 2026, coming back mode sources 
 | 16, cut the feed | Watching an ex-partner's Facebook page went with more distress, longing and negative feelings, and less personal growth, in 464 people after a breakup | Marshall 2012: https://pubmed.ncbi.nlm.nih.gov/22946958/ |
 | 16, distraction first, "why it did not fit" as a choice | After a breakup, distraction lifted mood and left love unchanged; thinking about the person's flaws lowered love and lowered mood | Langeslag & Sanchez 2018 (above) |
 | 16, worth reminders tied to facts | Repeating a generic positive self-statement made people with low self-esteem feel worse; writing about core values (self-affirmation) eases threats to the self | Wood, Perunovic & Lee 2009: https://pubmed.ncbi.nlm.nih.gov/19493324/ ; Cohen & Sherman 2014: https://pubmed.ncbi.nlm.nih.gov/24405362/ |
+| 16, the pull feels like gambling or a drug | fMRI of 15 people (10 women, 5 men) recently rejected and still in love: the photo of the rejecter activated the VTA, ventral striatum and orbitofrontal areas, reward systems previously identified with monetary gains and losses, plus areas linked to cocaine craving. It does not measure how fast the pull fades; "expect waves" stays the guidance | Fisher, Brown, Aron, Strong & Mashek 2010: https://pubmed.ncbi.nlm.nih.gov/20445032/ |
+| 16, the debrief kept short and factual | 90 recently separated adults, randomized writing tasks: those actively searching for meaning did worse after expressive writing and best with plain control writing, up to nine months later. Marital separation, a different setting from dating | Sbarra et al. 2013: https://pubmed.ncbi.nlm.nih.gov/25606351/ |
+| 6 and 16, "maybe another time", friendliness after a no, self-blame | Design choices built on the rules above (accept the first no, distraction first, worth tied to facts); no direct study found | (none) |
 | Privacy and fairness | No dossiers or profiling of people | Anthropic usage policy: https://www.anthropic.com/legal/aup |
 
 ## What changed from 1.0.0 because of the research

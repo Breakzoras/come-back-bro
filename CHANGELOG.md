@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.3.0 (2026-11-04)
+
+Coming back mode, after the first day of real use.
+- New: the debrief. One short factual write-up, once: what happened, what I learned, what I do next time. Then it is closed.
+- New: "maybe another time" with no date counts as a polite no with a half open door. You close it from your side, and if they come back later you pause a day before answering.
+- New: what to do if the person is friendly, teasing, cold or awkward at the shared place after the no.
+- New: when the pull feels like gambling, a plain explanation of why (the brain's reward and craving systems), with the source.
+- New: self-blame ("I was naive", "I begged"): what happened in your head versus what they actually saw.
+- New: your own bitter conclusions after a no ("they are all the same") go through the same keep or toss filter.
+- Two new sources in `EVIDENCE.md`: Fisher et al. 2010, Sbarra et al. 2013.
+
 ## 1.2.0 (2026-11-04)
 
 New: coming back mode, for when it does not work out and you want out.
