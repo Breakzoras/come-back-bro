@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.2.0 (2026-11-04)
+
+New: coming back mode, for when it does not work out and you want out.
+- Turn it on with "coming back mode" or "I'm out". It replaces intoxicated mode until "end coming back mode".
+- Lock the verdict in your own words. Use a nickname for the person if you ask.
+- Cut the feed: mute and archive the chat, no profiles or stories, one kind closing line if they write later.
+- Shared places like work or a friend's shop: polite and neutral, the extra attention drops away, nothing that reads as hurt.
+- Thoughts that come back: name them, switch to a task, expect waves. The "why it did not fit" list is a tool you choose.
+- Worth reminders on request, tied to true facts about you, because generic affirmations can backfire with low self-esteem.
+- Three new sources in `EVIDENCE.md`.
+
 ## 1.1.0 (2026-11-02)
 
 Rebuilt on research. Every rule now points to its sources in `come-back-bro/EVIDENCE.md`, full notes in `research/`.

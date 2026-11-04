@@ -1,6 +1,6 @@
 # Evidence behind come-back-bro
 
-Version 1.1.0, researched on the 2nd of November 2026. Every source below was opened during the research. The full notes, with sample sizes, strength ratings and the findings that failed to replicate, live in the repository's [research folder](../research/).
+Version 1.2.0. Researched on the 2nd of November 2026, coming back mode sources added on the 4th of November 2026. Every source below was opened during the research. The full notes, with sample sizes, strength ratings and the findings that failed to replicate, live in the repository's [research folder](../research/).
 
 **Read this first.** Nobody has tested an intervention on people in the first weeks of dating. The rules borrow from studies of breakups, unrequited love, anxiety, sleep, speed dating and chatbot use. Most samples are small, many are US college students, and most effects were measured in one session. Treat the skill as careful extrapolation from the best evidence available.
 
@@ -33,6 +33,9 @@ Version 1.1.0, researched on the 2nd of November 2026. Every source below was op
 | 9, crisis | Ask directly, give human contacts at once, keep method information out | Samaritans and safe-messaging guidance (../research/C-body-sleep-and-safety.md section G) ; https://findahelpline.com ; https://988lifeline.org/ |
 | 13, when to suggest a professional | Harm and well-being as the criterion; documented markers of the impairing form of love | Earp et al. 2017 (above) ; ../research/A-early-love-and-limerence.md section F |
 | 14 and 15, friends, breaks, clean exit | Heavy affective chatbot use goes with more dependence; manipulative goodbyes are common in companion apps; professional guidance on AI wellness tools | OpenAI and MIT Media Lab 2025: https://arxiv.org/abs/2503.17473 and https://arxiv.org/abs/2504.03888 ; De Freitas et al. 2025: https://arxiv.org/abs/2508.19258v3 ; APA advisory: https://www.apa.org/topics/artificial-intelligence-machine-learning/health-advisory-chatbots-wellness-apps |
+| 16, cut the feed | Watching an ex-partner's Facebook page went with more distress, longing and negative feelings, and less personal growth, in 464 people after a breakup | Marshall 2012: https://pubmed.ncbi.nlm.nih.gov/22946958/ |
+| 16, distraction first, "why it did not fit" as a choice | After a breakup, distraction lifted mood and left love unchanged; thinking about the person's flaws lowered love and lowered mood | Langeslag & Sanchez 2018 (above) |
+| 16, worth reminders tied to facts | Repeating a generic positive self-statement made people with low self-esteem feel worse; writing about core values (self-affirmation) eases threats to the self | Wood, Perunovic & Lee 2009: https://pubmed.ncbi.nlm.nih.gov/19493324/ ; Cohen & Sherman 2014: https://pubmed.ncbi.nlm.nih.gov/24405362/ |
 | Privacy and fairness | No dossiers or profiling of people | Anthropic usage policy: https://www.anthropic.com/legal/aup |
 
 ## What changed from 1.0.0 because of the research

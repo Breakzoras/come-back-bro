@@ -82,6 +82,8 @@ Paste [chatgpt/instructions.md](chatgpt/instructions.md) into a Project's instru
 | "remind me: ..." | Saves a rule you want to hear again, brought back at the right moment. |
 | "keep or toss: <link or text>" | Sorts dating advice from the internet into keep and toss. |
 | "end intoxicated mode" | Turns it off. |
+| "coming back mode" or "I'm out" | Switches to coming back mode: a practical, painless exit when it did not work out. |
+| "end coming back mode" | Turns coming back mode off. |
 
 ## How to use it
 
@@ -90,6 +92,7 @@ Paste [chatgpt/instructions.md](chatgpt/instructions.md) into a Project's instru
 3. When you spiral, say so. You will get facts and a plan.
    The messages you send stay yours: it offers options and you put them in your own words.
 4. Say "end intoxicated mode" when you are out of the woods.
+5. If it did not work out, say "coming back mode". You get a locked verdict, a plan for the chat and the socials, a script for places you still share, help when the thoughts come back, and worth reminders built on true facts about you.
 
 ## Privacy, honestly
 
